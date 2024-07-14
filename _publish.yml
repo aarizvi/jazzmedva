@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 60e51394-5318-4eae-b2d2-bdbf8fd21b36
+      url: 'https://jazzmedva.com'
