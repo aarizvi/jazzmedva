@@ -1,0 +1,8 @@
+---
+title: "Contact"
+format: html
+---
+
+If you have any questions or would like to schedule an appointment, please feel free to reach out to us:
+</p>Email: <a href="mailto:info@jazzmedicalaesthetics.com">info@jazzmedicalaesthetics.com</a>
+</p>Phone: <a href="tel:+1234567890">+1 (234) 567-890</a></p>

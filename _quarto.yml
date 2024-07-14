@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Jazz Medical Aesthetics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - services.qmd
+      - about.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
