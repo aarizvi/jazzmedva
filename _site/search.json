@@ -2,29 +2,78 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Sarah",
     "section": "",
-    "text": "Hi, I’m Sarah, a Physician Assistant originally from Buffalo, NY, now living in the Stafford, VA area! I hold an undergraduate degree in Business Administration from the University at Buffalo and a PA degree from Daemen University d\nMy medical background includes 8 years in primary care, serving as a traveling PA providing customized care to my patients, and working as an Emergency Medicine PA. My newest passion as a PA brings me to the medical aesthetic industry, where I created Jazz Medical Aesthetics. Jazz Medical Aesthetics is a concierge medical aesthetic service customized to meet each patient’s aesthetic goal"
+    "text": "Sarah’s Photo\n\n\n\n\nHi, I’m Sarah, the founder of Jazz Medical Aesthetics. As a Physician Assistant with a diverse medical background, I’m passionate about helping my clients achieve their aesthetic goals.\n\n\n\n Originally from Buffalo, NY, now based in Stafford, VA\n Undergraduate degree in Business Administration from the University at Buffalo\n PA degree from Daemen University\n\n\n\n\n\n 8 years in primary care\n Traveling PA providing customized patient care\n Emergency Medicine PA\n Now specializing in medical aesthetics\n\n\n\n\nI created Jazz Medical Aesthetics to offer a unique, personalized approach to aesthetic treatments. By bringing these services directly to you, we ensure a comfortable, convenient experience tailored to your individual needs.\n Book an Appointment"
+  },
+  {
+    "objectID": "about.html#meet-sarah",
+    "href": "about.html#meet-sarah",
+    "title": "About Sarah",
+    "section": "",
+    "text": "Hi, I’m Sarah, the founder of Jazz Medical Aesthetics. As a Physician Assistant with a diverse medical background, I’m passionate about helping my clients achieve their aesthetic goals.\n\n\n\n Originally from Buffalo, NY, now based in Stafford, VA\n Undergraduate degree in Business Administration from the University at Buffalo\n PA degree from Daemen University\n\n\n\n\n\n 8 years in primary care\n Traveling PA providing customized patient care\n Emergency Medicine PA\n Now specializing in medical aesthetics\n\n\n\n\nI created Jazz Medical Aesthetics to offer a unique, personalized approach to aesthetic treatments. By bringing these services directly to you, we ensure a comfortable, convenient experience tailored to your individual needs.\n Book an Appointment"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Contact Us",
     "section": "",
-    "text": "If you have any questions or would like to schedule an appointment, please feel free to reach out to us:\n\nEmail: info@jazzmedicalaesthetics.com\n\nPhone: +1 (234) 567-890"
+    "text": "We’d love to hear from you! Whether you have questions about our services or you’re ready to book an appointment, don’t hesitate to reach out.\n\n\n\n Phone: [(716) 807-4787]\n Email: [srizvi@jazzmedva.com]\n Instagram: @jazzmedicalaesthetics\n\n\n\n\nWe provide mobile aesthetic services in the Stafford, VA area and surrounding regions. Contact us to check if we serve your location!\n\n\n\nReady to enhance your natural beauty? Book your appointment through our patient portal:\n Access Patient Portal\n\n\n\nStay updated on our latest services, promotions, and beauty tips by following us on Instagram:\n Follow @jazzmedicalaesthetics\nWe look forward to helping you achieve your aesthetic goals!"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We’d love to hear from you! Whether you have questions about our services or you’re ready to book an appointment, don’t hesitate to reach out.\n\n\n\n Phone: [(716) 807-4787]\n Email: [srizvi@jazzmedva.com]\n Instagram: @jazzmedicalaesthetics\n\n\n\n\nWe provide mobile aesthetic services in the Stafford, VA area and surrounding regions. Contact us to check if we serve your location!\n\n\n\nReady to enhance your natural beauty? Book your appointment through our patient portal:\n Access Patient Portal\n\n\n\nStay updated on our latest services, promotions, and beauty tips by following us on Instagram:\n Follow @jazzmedicalaesthetics\nWe look forward to helping you achieve your aesthetic goals!"
   },
   {
     "objectID": "services.html",
     "href": "services.html",
-    "title": "Services",
+    "title": "Our Services",
     "section": "",
-    "text": "At Jazz Medical Aesthetics, we offer neurotoxin services in the comfort of your home or office for your convenience. Our product choices include Jeuveau and Botox, with Dysport coming soon. Stay tuned for additional services that will be available soon"
+    "text": "At Jazz Medical Aesthetics, we bring beauty to you. Our neurotoxin services are offered in the comfort of your home or office for ultimate convenience.\n\n\n\n Jeuveau: The latest FDA-approved neurotoxin for frown lines\n Botox: The classic choice for wrinkle reduction\n Dysport: Coming soon!\n\n\n\n\n\n Personalized treatments\n Comfortable, familiar environment\n Time-saving convenience\n Expert application by a licensed Physician Assistant\n\n Stay tuned for additional services coming soon!\n Book a Consultation"
+  },
+  {
+    "objectID": "services.html#neurotoxin-services",
+    "href": "services.html#neurotoxin-services",
+    "title": "Our Services",
+    "section": "",
+    "text": "At Jazz Medical Aesthetics, we bring beauty to you. Our neurotoxin services are offered in the comfort of your home or office for ultimate convenience.\n\n\n\n Jeuveau: The latest FDA-approved neurotoxin for frown lines\n Botox: The classic choice for wrinkle reduction\n Dysport: Coming soon!\n\n\n\n\n\n Personalized treatments\n Comfortable, familiar environment\n Time-saving convenience\n Expert application by a licensed Physician Assistant\n\n Stay tuned for additional services coming soon!\n Book a Consultation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Coming soon",
+    "title": "Welcome to Jazz Medical Aesthetics",
     "section": "",
-    "text": "Coming soon"
+    "text": "Jazz Medical Aesthetics Logo\n\n\n\n\n Elevate Your Natural Beauty\n Book Your Consultation"
+  },
+  {
+    "objectID": "index.html#our-services",
+    "href": "index.html#our-services",
+    "title": "Welcome to Jazz Medical Aesthetics",
+    "section": " Our Services",
+    "text": "Our Services\n\n\n\n\n Jeuveau\nThe latest FDA-approved neurotoxin for frown lines\n\n\n\n\n\n\n Botox\nThe classic choice for wrinkle reduction\n\n\n\n\n\n\n Dysport\nComing soon!\n\n\n\n\n Explore Our Services"
+  },
+  {
+    "objectID": "index.html#why-choose-jazz-medical-aesthetics",
+    "href": "index.html#why-choose-jazz-medical-aesthetics",
+    "title": "Welcome to Jazz Medical Aesthetics",
+    "section": " Why Choose Jazz Medical Aesthetics?",
+    "text": "Why Choose Jazz Medical Aesthetics?\n\n Personalized treatments tailored to your unique beauty\n Comfortable, luxurious experience in your own space\n Expert care from a licensed Physician Assistant\n Convenient appointments that fit your busy lifestyle\n\n Meet Sarah, Your Aesthetic Expert"
+  },
+  {
+    "objectID": "index.html#transform-your-look",
+    "href": "index.html#transform-your-look",
+    "title": "Welcome to Jazz Medical Aesthetics",
+    "section": " Transform Your Look",
+    "text": "Transform Your Look\nIndulge in our premium aesthetic services and unveil your most radiant self. At Jazz Medical Aesthetics, we believe in enhancing your natural beauty with a touch of elegance.\n Book Your Consultation Today"
+  },
+  {
+    "objectID": "index.html#stay-connected",
+    "href": "index.html#stay-connected",
+    "title": "Welcome to Jazz Medical Aesthetics",
+    "section": " Stay Connected",
+    "text": "Stay Connected\nFollow us for the latest beauty tips, exclusive offers, and inspiration!"
   }
 ]

@@ -1,6 +1,27 @@
 ---
-title: "Services"
+title: "Our Services"
 format: html
 ---
 
-At Jazz Medical Aesthetics, we offer neurotoxin services in the comfort of your home or office for your convenience. Our product choices include Jeuveau and Botox, with Dysport coming soon. Stay tuned for additional services that will be available soon
+# <i class="fas fa-star"></i> Our Services
+
+## <i class="fas fa-syringe"></i> Neurotoxin Services
+
+At Jazz Medical Aesthetics, we bring beauty to you. Our neurotoxin services are offered in the comfort of your home or office for ultimate convenience. 
+
+### <i class="fas fa-list-ul"></i> Our Products
+
+- <i class="fas fa-check"></i> **Jeuveau**: The latest FDA-approved neurotoxin for frown lines
+- <i class="fas fa-check"></i> **Botox**: The classic choice for wrinkle reduction
+- <i class="fas fa-hourglass-half"></i> **Dysport**: Coming soon!
+
+### <i class="fas fa-heart"></i> Benefits of Our Services
+
+- <i class="fas fa-user-md"></i> Personalized treatments
+- <i class="fas fa-home"></i> Comfortable, familiar environment
+- <i class="fas fa-clock"></i> Time-saving convenience
+- <i class="fas fa-certificate"></i> Expert application by a licensed Physician Assistant
+
+<i class="fas fa-bell"></i> Stay tuned for additional services coming soon!
+
+[<i class="fas fa-calendar-alt"></i> Book a Consultation](#){.btn .btn-primary}

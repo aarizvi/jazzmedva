@@ -1,7 +1,30 @@
 ---
-title: "About"
+title: "About Sarah"
 ---
 
-Hi, I’m Sarah, a Physician Assistant originally from Buffalo, NY, now living in the Stafford, VA area! I hold an undergraduate degree in Business Administration from the University at Buffalo and a PA degree from Daemen University d 
+# <i class="fas fa-user-md"></i> About Sarah
 
-My medical background includes 8 years in primary care, serving as a traveling PA providing customized care to my patients, and working as an Emergency Medicine PA. My newest passion as a PA brings me to the medical aesthetic industry, where I created Jazz Medical Aesthetics. Jazz Medical Aesthetics is a concierge medical aesthetic service customized to meet each patient's aesthetic goal
+![Sarah's Photo](path/to/sarah-photo.jpg){.rounded .float-right .ms-3 style="max-width: 300px;"}
+
+## <i class="fas fa-smile"></i> Meet Sarah
+
+Hi, I'm Sarah, the founder of Jazz Medical Aesthetics. As a Physician Assistant with a diverse medical background, I'm passionate about helping my clients achieve their aesthetic goals.
+
+### <i class="fas fa-road"></i> My Journey
+
+- <i class="fas fa-map-marker-alt"></i> Originally from Buffalo, NY, now based in Stafford, VA
+- <i class="fas fa-graduation-cap"></i> Undergraduate degree in Business Administration from the University at Buffalo
+- <i class="fas fa-user-md"></i> PA degree from Daemen University
+
+### <i class="fas fa-briefcase"></i> Professional Experience
+
+- <i class="fas fa-calendar-alt"></i> 8 years in primary care
+- <i class="fas fa-plane"></i> Traveling PA providing customized patient care
+- <i class="fas fa-ambulance"></i> Emergency Medicine PA
+- <i class="fas fa-spa"></i> Now specializing in medical aesthetics
+
+### <i class="fas fa-question-circle"></i> Why Jazz Medical Aesthetics?
+
+I created Jazz Medical Aesthetics to offer a unique, personalized approach to aesthetic treatments. By bringing these services directly to you, we ensure a comfortable, convenient experience tailored to your individual needs.
+
+[<i class="fas fa-calendar-check"></i> Book an Appointment](#){.btn .btn-primary}

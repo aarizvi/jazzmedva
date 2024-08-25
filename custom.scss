@@ -1,0 +1,104 @@
+/*-- scss:defaults --*/
+$primary: #E0B0FF;  // Soft lavender
+$secondary: #FFD1DC;  // Light pink
+$success: #98FB98;  // Pale green
+$info: #ADD8E6;  // Light blue
+$warning: #FFEFD5;  // Papaya whip
+$danger: #FFB6C1;  // Light pink
+$light: #FFF0F5;  // Lavender blush
+$dark: #4A0E4E;  // Deep purple
+
+$font-family-sans-serif: 'Playfair Display', serif;
+$font-family-monospace: 'Roboto Mono', monospace;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: $light;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-sans-serif;
+  color: $dark;
+}
+
+.navbar {
+  font-family: $font-family-sans-serif;
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.nav-link {
+  color: $dark !important;
+  &:hover {
+    color: $primary !important;
+  }
+}
+
+.hero {
+  background: linear-gradient(135deg, $secondary, $primary);
+  color: $dark;
+  padding: 6rem 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  text-shadow: 1px 1px 2px rgba(0,0,0,.1);
+}
+
+.logo {
+  max-width: 250px;
+  margin-bottom: 2rem;
+  filter: drop-shadow(0 0 10px rgba(255,255,255,0.5));
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  color: $dark;
+  &:hover {
+    background-color: darken($primary, 10%);
+    border-color: darken($primary, 10%);
+    color: $dark;
+  }
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0,0,0,.1);
+  transition: all 0.3s ease;
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,.15);
+  }
+}
+
+.section-title {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 2rem;
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 50%;
+    height: 2px;
+    background-color: $primary;
+  }
+}
+
+.social-icon {
+  font-size: 1.5rem;
+  color: $primary;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+  &:hover {
+    color: $dark;
+  }
+}

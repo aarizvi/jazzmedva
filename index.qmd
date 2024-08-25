@@ -1,5 +1,78 @@
 ---
-title: "Coming soon"
+title: "Welcome to Jazz Medical Aesthetics"
+format: 
+  html:
+    page-layout: full
 ---
 
-Coming soon
+::: {.hero}
+![Jazz Medical Aesthetics Logo](path/to/your/logo.png){.logo}
+
+# Jazz Medical Aesthetics
+
+<i class="fas fa-spa"></i> Elevate Your Natural Beauty
+
+[<i class="fas fa-calendar-alt"></i> Book Your Consultation]{.btn .btn-light .btn-lg}
+:::
+
+::: {.container .my-5}
+## <i class="fas fa-star"></i> Our Services {.section-title .text-center}
+
+::: {.row .row-cols-1 .row-cols-md-3 .g-4}
+::: {.col}
+::: {.card .h-100}
+::: {.card-body}
+### <i class="fas fa-syringe"></i> Jeuveau
+The latest FDA-approved neurotoxin for frown lines
+:::
+:::
+:::
+
+::: {.col}
+::: {.card .h-100}
+::: {.card-body}
+### <i class="fas fa-magic"></i> Botox
+The classic choice for wrinkle reduction
+:::
+:::
+:::
+
+::: {.col}
+::: {.card .h-100}
+::: {.card-body}
+### <i class="fas fa-hourglass-half"></i> Dysport
+Coming soon!
+:::
+:::
+:::
+:::
+
+[<i class="fas fa-arrow-right"></i> Explore Our Services]{.btn .btn-primary .d-block .mx-auto .mt-4}
+:::
+
+::: {.container .my-5 .text-center}
+## <i class="fas fa-heart"></i> Why Choose Jazz Medical Aesthetics? {.section-title}
+
+- <i class="fas fa-user-md"></i> Personalized treatments tailored to your unique beauty
+- <i class="fas fa-home"></i> Comfortable, luxurious experience in your own space
+- <i class="fas fa-certificate"></i> Expert care from a licensed Physician Assistant
+- <i class="fas fa-clock"></i> Convenient appointments that fit your busy lifestyle
+
+[<i class="fas fa-user"></i> Meet Sarah, Your Aesthetic Expert]{.btn .btn-primary .mt-3}
+:::
+
+::: {.container .my-5}
+## <i class="fas fa-magic"></i> Transform Your Look {.section-title .text-center}
+
+Indulge in our premium aesthetic services and unveil your most radiant self. At Jazz Medical Aesthetics, we believe in enhancing your natural beauty with a touch of elegance.
+
+[<i class="fas fa-calendar-check"></i> Book Your Consultation Today]{.btn .btn-primary .d-block .mx-auto .mt-4}
+:::
+
+::: {.container .my-5 .text-center}
+## <i class="fas fa-hashtag"></i> Stay Connected {.section-title}
+
+Follow us for the latest beauty tips, exclusive offers, and inspiration!
+
+[<i class="fab fa-instagram"></i>]{.social-icon} [<i class="fab fa-facebook"></i>]{.social-icon} [<i class="fab fa-twitter"></i>]{.social-icon}
+:::
