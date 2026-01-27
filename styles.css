@@ -1,1 +1,72 @@
-/* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Poppins:wght@300;400;500&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff7fb;
+  color: #3d1f4f;
+  line-height: 1.6;
+}
+
+h1, h2, h3, .section-title {
+  font-family: 'Playfair Display', serif;
+  color: #391c49;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.hero {
+  font-family: 'Playfair Display', serif;
+  font-weight: 300;
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(2px);
+}
+
+.hero h1, .hero h2, .hero p {
+  color: white;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #b46ed7, #8244A0);
+  border: none;
+  border-radius: 2rem;
+  font-weight: 500;
+  padding: 0.6rem 1.5rem;
+  color: white;
+}
+
+.btn-outline-primary {
+  color: #8244A0;
+  border: 2px solid #8244A0;
+  border-radius: 2rem;
+  background-color: transparent;
+  font-weight: 500;
+}
+
+.btn-light {
+  border-radius: 2rem;
+  font-weight: 500;
+  background-color: white;
+  color: #391c49;
+}
+
+.card img, .img-fluid {
+  border-radius: 1rem;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 1rem;
+  padding-bottom: 1rem;
+}
+
+.navbar {
+  font-family: 'Poppins', sans-serif;
+}

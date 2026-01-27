@@ -5,23 +5,15 @@ format: html
 
 # <i class="fas fa-star"></i> Our Services
 
-## <i class="fas fa-syringe"></i> Neurotoxin Services
+Explore our signature treatments below. Click each service to learn more:
 
-At Jazz Medical Aesthetics, we bring beauty to you. Our neurotoxin services are offered in the comfort of your home or office for ultimate convenience. 
-
-### <i class="fas fa-list-ul"></i> Our Products
-
-- <i class="fas fa-check"></i> **Jeuveau**: The latest FDA-approved neurotoxin for frown lines
-- <i class="fas fa-check"></i> **Botox**: The classic choice for wrinkle reduction
-- <i class="fas fa-hourglass-half"></i> **Dysport**: Coming soon!
-
-### <i class="fas fa-heart"></i> Benefits of Our Services
-
-- <i class="fas fa-user-md"></i> Personalized treatments
-- <i class="fas fa-home"></i> Comfortable, familiar environment
-- <i class="fas fa-clock"></i> Time-saving convenience
-- <i class="fas fa-certificate"></i> Expert application by a licensed Physician Assistant
-
-<i class="fas fa-bell"></i> Stay tuned for additional services coming soon!
+::: {.service-links}
+- [Botox & Jeuveau](services/botox-jeuveau.qmd)
+- [Lip Filler](services/lip-filler.qmd)
+- [Facial Balancing](services/facial-balancing.qmd)
+- [SkinPen Microneedling](services/microneedling.qmd)
+- [The Perfect Derma Peel](services/derma-peel.qmd)
+- [Weight Loss Program](services/weight-loss.qmd)
+:::
 
 [<i class="fas fa-calendar-alt"></i> Book a Consultation](#){.btn .btn-primary}

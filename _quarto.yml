@@ -3,28 +3,47 @@ project:
 
 website:
   title: "Jazz Medical Aesthetics"
+
+  sidebar:
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Overview"
+        href: services.qmd
+      - section: "Treatments"
+        contents:
+          - services/botox-jeuveau.qmd
+          - services/lip-filler.qmd
+          - services/facial-balancing.qmd
+          - services/microneedling.qmd
+          - services/derma-peel.qmd
+          - services/weight-loss.qmd
+      - about.qmd
+      - contact.qmd
   navbar:
     background: light
-    search: true
+    search: false
     left:
       - href: index.qmd
         text: Home
-      - services.qmd
-      - about.qmd
-      - contact.qmd
+      - href: services.qmd
+        text: Treatments
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
     right:
       - icon: instagram
         href: https://www.instagram.com/jazzmedicalaesthetics/
-      - icon: facebook
-        href: "#"
-      - icon: twitter
-        href: "#"
-      - text: "Patient Portal"
+      - text: "Book Now"
         href: https://diklw.myaestheticrecord.com/login
+
   page-footer:
     background: light
-    left: "© 2024 Jazz Medical Aesthetics. All rights reserved."
-    right: 
+    left: "© 2025 Jazz Medical Aesthetics. All rights reserved."
+    right:
       - icon: instagram
         href: https://www.instagram.com/jazzmedicalaesthetics/
       - icon: facebook
@@ -34,11 +53,13 @@ website:
 
 format:
   html:
-    theme: 
+    theme:
       - cosmo
-      - custom.scss
+      - luxury.scss  # Optional: only if using SCSS overrides
     css: styles.css
-    toc: true
+    page-layout: full
+    toc: false
+    sidebar: false  # Only applies globally unless overridden per page
     smooth-scroll: true
     fontsize: 1.1em
     linestretch: 1.7
@@ -46,3 +67,12 @@ format:
     include-in-header:
       - text: |
           <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+resources:
+  - images
+  - services/botox-jeuveau.qmd
+  - services/lip-filler.qmd
+  - services/facial-balancing.qmd
+  - services/microneedling.qmd
+  - services/derma-peel.qmd
+  - services/weight-loss.qmd

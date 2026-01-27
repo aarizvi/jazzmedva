@@ -1,10 +1,10 @@
 ---
-title: "About Sarah"
+title: "About"
 ---
 
 # <i class="fas fa-user-md"></i> About Sarah
 
-![Sarah's Photo](path/to/sarah-photo.jpg){.rounded .float-right .ms-3 style="max-width: 300px;"}
+![](images/RIZVI_SARAH_96.png){.rounded .float-right .ms-3 style="max-width: 300px;"}
 
 ## <i class="fas fa-smile"></i> Meet Sarah
 
@@ -27,4 +27,4 @@ Hi, I'm Sarah, the founder of Jazz Medical Aesthetics. As a Physician Assistant 
 
 I created Jazz Medical Aesthetics to offer a unique, personalized approach to aesthetic treatments. By bringing these services directly to you, we ensure a comfortable, convenient experience tailored to your individual needs.
 
-[<i class="fas fa-calendar-check"></i> Book an Appointment](#){.btn .btn-primary}
+[<i class="fas fa-calendar-check"></i> Book an Appointment](https://diklw.myaestheticrecord.com/login){.btn .btn-primary}
